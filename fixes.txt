@@ -1,2 +1,3 @@
 Bug has been fixed
 
+darkmode bug fixed
